@@ -33,3 +33,7 @@
 
 ### 上傳
 蒐集到的天氣數據會上傳到MediaTek Cloud Sandbox伺服器，並可以透過網頁查看資訊
+
+## 照片
+
+<img src="https://raw.githubusercontent.com/AU2A/NSTM_WX-Demo-Tools/main/image/1.jpg" alt="drawing" width="200"/>
